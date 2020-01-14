@@ -1,4 +1,4 @@
-package com.rdu.compare;
+package com.compare;
 
 import java.io.Serializable;
 import java.util.ArrayList;
