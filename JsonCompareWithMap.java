@@ -1,4 +1,4 @@
-package com.rdu.compare;
+package com.compare;
 
 import java.util.HashMap;
 import java.util.HashSet;
